@@ -1,0 +1,45 @@
+/* .background {
+  viewport-fill: #FF1493;
+} */
+
+#clock {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+40;
+  fill: #FF1493;
+}
+
+.clock-display {
+  font-family: Colfax-Bold;
+  fill: white;
+  font-size: 70;
+  text-anchor: middle;
+}
+
+#date{
+  font-family: Tungsten-Medium;
+  font-size: 23;
+  fill: #F0FFFF;
+  text-length: 32;
+  text-anchor: end;
+}
+
+#heartRateLabel{
+ font-family: Tungsten-Medium;
+  font-size: 25;
+  fill: #F0FFFF;
+  text-length: 32;
+  text-anchor: end;
+}
+
+#battery{
+  font-family: Tungsten-Medium;
+  font-size: 23;
+  fill: #F0FFFF;
+  text-length: 32;
+  text-anchor: end;
+}
+

@@ -1,0 +1,41 @@
+<svg class="background">
+  
+   <use id="magicLight" width="300" height="300" x="0" y="0" href="#domino"  />
+  
+<!-- <use id="pumping" width="24" height="24" x="40" y="260" href="#heart"  /> -->
+
+<text text-anchor="middle" x="155" y="100" fill="#F0FFFF" 
+    font-size="65" id="myLabel" text-length="7" font-family="Tungsten-Medium"/>
+  
+<text id="clockShadow" text-anchor="middle"  font-size="65" x="157" y="82" opacity="0.9" font-family="Tungsten-Medium"  fill="#F0FFFF" 
+         text-length="7" /> 
+       
+<text id="heartRateLabel" x="85" y="280"/>
+  
+<text id="date" x="80" y="25"/>
+  
+<text id="dateShadow" x="58" y="38"/>
+  
+<text id="battery" x="295" y="25"/>
+  
+<!-- <text id="txtCals" x="45" y="54" font-family="Tungsten-Medium" font-size="25" fill="#DDA0DD" text-length="32" /> -->
+  
+<text id="steps" x="150" y="280" font-family="Tungsten-Medium" font-size="25" fill="#F0FFFF" text-length="32"/> 
+ 
+<image id="heartRate" x="35" y="260" width="24" height="24" href="Icons/heartbeat.png" fill="#F0FFFF" /> -->
+  
+<image x="115" y="258" width="28" height="28" href="Icons/steps.png" fill="#F0FFFF" />
+  
+<image id="caloriesPhoto" x="220" y="255" width="29" height="29" fill ="#FFF8DC" href="Icons/calories.png" />
+  
+  <text id="txtCals" x="250" y="280" font-family="Tungsten-Medium"  font-size="25" fill="#F0FFFF" text-length="30" />
+  
+   
+ 
+<!--<image x="14" y="64" width="24" height="24" href="images/stat_steps_solid_24px.png"  fill="#DB7093" /> -->
+
+<use href="#kpay" />  
+  
+</svg>
+
+

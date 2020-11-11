@@ -1,0 +1,14 @@
+<svg>
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="import" href="/mnt/sysassets/widgets_common.gui" />
+    <link rel="import" href="kpay/kpay.gui"/>
+  
+  </defs>
+     <symbol id="domino" href="#sprite-image">
+      <animate id="anim" attributeName="value" begin="enable"
+          from="1" to="9" dur="0.2" repeatCount="indefinite"/>
+      <image href="Dominos/Domnos__01.png" />
+         </symbol> 
+</svg>
+

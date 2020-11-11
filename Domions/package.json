@@ -1,0 +1,31 @@
+{
+  "fitbit": {
+    "appUUID": "3dc8e4fd-89f3-4453-81bd-8401dd62a8a1",
+    "appType": "clockface",
+    "appDisplayName": "Dominos",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_user_profile",
+      "access_location",
+      "access_internet",
+      "run_background",
+      "access_exercise",
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "meson",
+      "gemini"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dominos"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}

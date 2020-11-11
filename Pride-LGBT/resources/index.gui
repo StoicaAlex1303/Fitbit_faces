@@ -1,0 +1,41 @@
+<svg class="background">
+   <image href = "images/lgbt.png" width ="300" height ="300"/>
+
+  <!--  <text id="battery" /> -->
+
+  <text text-anchor="middle" x="145" y="155" fill="#f8dec5" 
+      font-size="40" id="myLabel" text-length="7" font-family="Seville-Bold" opacity="1" />
+
+<!--   <text id="clockShadow" text-anchor="middle"  font-size="38" x="150" y="156" opacity="0.85" font-family="Seville-Bold"  fill="#e7e39c" 
+           text-length="7" /> -->
+
+  <text id="heartRateLabel" x="230" y="240" text-anchor="end" font-family="Seville-Bold" font-size="20" fill="#ffea20" text-length="32"/>
+  <image id="heartRate" x="230" y="222" width="22" height="22" href="images/stat_hr_solid_32px.png" fill="#ffea20" />
+
+
+  <text id="date" x="290" y="30"  text-anchor="end" font-family="Seville-Bold" font-size="20" fill="#ee3c1c" text-length="32" opacity="1" />
+  
+    <text id="day" x="15" y="30"  text-anchor="start" font-family="Seville-Bold" font-size="20" fill="#9679e5" text-length="32" opacity="1" />
+<!--   <text id="dateShadow" x="131" y="180" font-family="Seville-Bold" font-size="18" fill="#00FFFF" text-length="32"/> -->
+  
+  
+
+  <text id="battery" x="55" y="240" text-anchor="start"  font-family="Seville-Bold" font-size="20" fill="#34da1c" text-length="32"/>
+  <image id="batteryLabel" x="32" y="222" width="24" height="24" href="images/stat_am_solid_32px.png" fill="#34da1c" />
+
+  
+  <text id="txtCals" x="30" y="290" text-anchor="start" font-family="Seville-Bold" font-size="18" fill="#1cbaee" text-length="32"/>
+  <image id="caloriesLabel" x="5" y="270" width="24" height="24" href="images/stat_cals_solid_32px.png" fill="#1cbaee" />
+
+
+
+  <text id="steps"  x="260" y="290"  text-anchor="end" font-family="Seville-Bold" font-size="18" fill="#ffae20" text-length="32"/>
+  <image id="stepsicon" x="262" y="270"  width="24" height="24" href="images/stat_steps_solid_32px.png" fill="#ffae20" />
+
+
+   <use href="#kpay" /> 
+
+  
+</svg>
+
+
